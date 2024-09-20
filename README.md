@@ -1,4 +1,4 @@
-<img src="/public/logo-vertical.svg" width="200">
+<p align="center"><img src="/public/logo-vertical.svg" width="200"></p>
 
 # Saturn AI
 
