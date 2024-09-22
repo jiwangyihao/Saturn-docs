@@ -2,6 +2,8 @@
 
 # Saturn AI
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/06363292eee843888be10ab01fd96102)](https://app.codacy.com/gh/jiwangyihao/Saturn-docs?utm_source=github.com&utm_medium=referral&utm_content=jiwangyihao/Saturn-docs&utm_campaign=Badge_Grade)
+
 Saturn AI is a multi-source cell knowledge base agricultural intelligent agent with a MoE-like hybrid expert architecture. It provides human-centered services throughout the lifecycle of agricultural activities.
 
 ## Features
