@@ -20,7 +20,7 @@ This repository contains the source code of the Saturn AI documentation website.
 
 This repository is open source under the MPL-2.0 License.
 
-The Saturn AI main project will be open source under the MPL-2.0 License as soon as it is released.
+The Saturn AI main project will be open source under the MPL-2.0 License as soon as it is officially public released.
 
 ## Work in Progress
 
