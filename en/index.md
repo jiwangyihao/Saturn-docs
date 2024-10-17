@@ -8,8 +8,8 @@ hero:
   tagline: Human-centered services throughout the lifecycle
   actions:
     - theme: brand
-      text: Quick Start
-      link: "#image-display"
+      text: Try it Now
+      link: https://saturn-ai.jwyihao.top
     - theme: alt
       text: View on GitHub
       link: https://github.com/jiwangyihao/Saturn-docs

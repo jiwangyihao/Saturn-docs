@@ -8,8 +8,8 @@ hero:
   tagline: 以人为本的产前、产中、产后全生命周期智能农业服务
   actions:
     - theme: brand
-      text: 快速了解
-      link: "#图片展示"
+      text: 快速体验
+      link: https://saturn-ai.jwyihao.top/
     - theme: alt
       text: 在 GitHub 上查看
       link: https://github.com/jiwangyihao/Saturn-docs
