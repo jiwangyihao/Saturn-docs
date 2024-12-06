@@ -26,6 +26,10 @@ features:
     details: 多源细胞知识库领域赋权，跨领域知识融合
 ---
 
+## 演示视频
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113606867880007&bvid=BV1vRizYKEug&cid=27214941676&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ## 图片展示
 
 <el-carousel type="card" height="24vw" indicator-position="none">
