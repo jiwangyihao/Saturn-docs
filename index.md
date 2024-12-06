@@ -169,4 +169,10 @@ const previewSrcList = [
 </script>
 
 <style>
+iframe[src*="player.bilibili.com"] {
+  width: 100%;
+  max-width: 100vh;
+  aspect-ratio: 16 / 9;
+  margin: 0 auto;
+}
 </style>
